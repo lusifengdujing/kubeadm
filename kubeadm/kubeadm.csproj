@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Image\kubernetes.png" />
+    <Content Include="Image\log.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
