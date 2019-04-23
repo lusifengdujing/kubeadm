@@ -1,13 +1,13 @@
-ï»¿<h1>åŸºäºkubeadmçš„Kubernetesé›†ç¾¤éƒ¨ç½²</h1>
+<h1>»ùÓÚkubeadmµÄKubernetes¼¯Èº²¿Êğ</h1>
 
->ä»‹ç»åœ¨ **Ubuntu Server 18.04.2 LTS** ç‰ˆæœ¬ä¸Šå®‰è£… **kubeadm**ï¼Œ
->å¹¶åˆ©ç”¨ **kubeadm** åœ¨ **Ubuntu Server 18.04.2 LTS**ä¸Šæ„å»ºä¸€ä¸ª **Kubernetes** æµ‹è¯•é›†ç¾¤ã€‚
-
-
-<h2 id="1">ç›®å½•</h2>
+>½éÉÜÔÚ **Ubuntu Server 18.04.2 LTS** °æ±¾ÉÏ°²×° **kubeadm**£¬
+>²¢ÀûÓÃ **kubeadm** ÔÚ **Ubuntu Server 18.04.2 LTS**ÉÏ¹¹½¨Ò»¸ö **Kubernetes** ²âÊÔ¼¯Èº¡£
 
 
-[ä½¿ç”¨Markdownè¯­æ³•å¢åŠ çš„è·³è½¬åˆ°â€œå‰è¨€â€çš„é“¾æ¥](#1)
+<h2 id="1">Ä¿Â¼</h2>
+
+
+[Ê¹ÓÃMarkdownÓï·¨Ôö¼ÓµÄÌø×ªµ½¡°Ç°ÑÔ¡±µÄÁ´½Ó](#1)
 
 ![avatar](./Image/log.png)
 
